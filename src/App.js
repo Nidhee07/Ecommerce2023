@@ -30,10 +30,6 @@ import CartPage from "./pages/CartPage";
 import AdminOrders from "./pages/Admin/AdminOrders";
 import PasswordReset from "./pages/Auth/PasswordReset";
 
-
-
-
-
 function App() {
   return (
     <>
